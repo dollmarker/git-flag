@@ -28,10 +28,9 @@
 
      这个脚本可以自己找flag,  给ai写的，参考文章[Git泄漏找Flag思路总结 - CTF-Web修炼手册](https://wilesangh.github.io/ctf-web/Git泄漏找Flag思路总结/)
 
-     ![](D:\CTFHU\信息收集\信息泄露\Git\自动找flag的脚本\屏幕截图 2026-01-08 234849.png)
+     ![](.\屏幕截图 2026-01-08 234849.png)
 
-     [![](D:\CTFHU\信息收集\信息泄露\Git\自动找flag的脚本\屏幕截图 2026-01-08 234855.png)
-](https://github.com/dollmarker/git-flag/blob/main/%E8%87%AA%E5%8A%A8%E6%89%BEflag%E7%9A%84%E8%84%9A%E6%9C%AC/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-01-08%20234855.png)
+     [![](.\屏幕截图 2026-01-08 234855.png)
      
 
      
@@ -90,3 +89,4 @@
      
 
      
+
